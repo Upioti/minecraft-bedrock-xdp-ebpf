@@ -133,7 +133,6 @@ When Prometheus is enabled the exporter provides these series:
 
 Combine them with counters from other nodes for a cluster-wide view.
 
-*BlockedIPs metric is avaliable, currently shows all-time dropped ips, which is unintended, will fix at some point*
 
 ---
 
@@ -156,5 +155,6 @@ For a budget-friendly alternative for your small server, visit **[Arvoris](https
 ---
 
 ## License
+
 
 See `LICENSE` file for details. 
